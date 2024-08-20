@@ -1,0 +1,19 @@
+#para{
+    color: brown;
+    font-size: 20px;
+background-image: url(https://cdn.firstcry.com/education/2022/12/12101916/Flower-Names-In-English-For-Kids.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+}
+.para1{
+
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    border: 5px solid blue;
+    /* double dashed inset rigid solid */
+    border-radius: 10%;
+
+}

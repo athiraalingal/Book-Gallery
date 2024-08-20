@@ -1,0 +1,31 @@
+
+
+.row{
+    background-color: darkred;
+    height: 700px;
+    position: relative;
+}
+
+.col{
+    background-color: darkslategrey;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    position: absolute;
+}
+
+.col-1{
+
+    margin-left: 250px;
+}
+
+.col-2{
+
+    margin-left: 500px;
+}
+
+.col-3{
+
+    margin-left: 750px;
+}
+

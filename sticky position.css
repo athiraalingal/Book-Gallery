@@ -1,0 +1,14 @@
+body{
+    width: 500px;
+    height: 1400px;
+    margin: 0;
+}
+
+dt{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    margin: 16px 0;
+}

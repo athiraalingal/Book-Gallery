@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    background-color: chartreuse;
+    padding: 20px;
+}
+
+
+div{
+    
+    background-color: burlywood;
+    height:400px ;
+    width: 300px;
+    margin: 10px;
+    float: right;
+}
+
+img{
+    margin-left: 150px;
+    padding: 10px;
+}
+
+h2{
+    
+}

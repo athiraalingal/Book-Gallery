@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+
+h1{
+    color: darkolivegreen;
+    text-align:center ;
+    background-color: aqua;
+    padding:20px ;
+}
+
+#para1{
+
+    color: chocolate;
+    text-align: center;
+    background-color: burlywood;
+    padding:20px ;
+}
+
+
+div{
+    background-color: blueviolet;
+    text-align: ;
+}
+
+#para2{
+    color: darkkhaki;
+    text-align:center ;
+    background-color: darksalmon;
+    padding:20px ;
+}
+
+#para3{
+
+    color: deeppink;
+    text-align:center ;
+    background-color: orange;
+    padding: 20px;
+}
+
+#para4{
+
+    color: black;
+    text-align: center;
+    background-color: royalblue;
+    padding: 20px;
+}
+
